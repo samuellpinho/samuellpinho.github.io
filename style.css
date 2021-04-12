@@ -1,0 +1,38 @@
+/* cores
+background de codigo #070f3f
+ */
+
+ body{
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ mark{
+     color: white;
+     background-color: #070f3f;
+     border-radius: 10%;
+     
+ }
+ol{
+    color:white;
+    background-color: #070f3f;
+    max-width: min-content;
+}
+i{
+    color: yellow;
+}
+v{
+    color: rgb(0, 175, 0);
+}
+r{
+    color: rgb(223, 45, 230);
+}
+b{             
+    color: #02fad9;
+}
+j{
+    color: #a200fffb;
+}
+l{  
+    color: aliceblue;
+    background-color: #070f3f;
+    border-radius: 10%;
+}
